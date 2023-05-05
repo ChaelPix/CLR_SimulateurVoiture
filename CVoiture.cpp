@@ -56,7 +56,7 @@ void CVoiture::fixerPhares(EtatPhare etatPhare)
 
 void CVoiture::allumerChauffage()
 {
-	eteindreClim();
+	//eteindreClim();
 	MajTrame(1, 1, 6);
 }
 
@@ -67,7 +67,7 @@ void CVoiture::eteindreChauffage()
 
 void CVoiture::allumerClim()
 {
-	eteindreChauffage();
+	//eteindreChauffage();
 	MajTrame(1, 1, 7);
 }
 

@@ -2,7 +2,7 @@
 #include <bitset>
 #include "CVoiture.h"
 
-class CBusLin : public CVoiture
+ref class CBusLin : public CVoiture
 {
 
 public :

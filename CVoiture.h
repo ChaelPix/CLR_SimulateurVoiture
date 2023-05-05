@@ -2,7 +2,7 @@
 #include <bitset>
 #include <iostream>
 
-class CVoiture
+ref class CVoiture
 {
 private:
 
